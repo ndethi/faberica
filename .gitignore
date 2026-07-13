@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+dist/
+.env
+runs/hermes/STATE.json
+runs/hermes/iteration-log.md
+*.log
